@@ -27,3 +27,14 @@ http://mitpress.mit.edu/books/little-schemer
 
 Red-Black Trees in great Detail:
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/lecture-10-red-black-trees-rotations-insertions-deletions/
+
+##Papers & Reference
+Ben Pfaff - Performance Analysis of BSTs in System Software 
+http://benpfaff.org/papers/libavl.pdf
+
+Robert Sedgewick - Left-leaning Red-Black Trees
+https://www.cs.princeton.edu/~rs/talks/LLRB/LLRB.pdf
+
+István Fekete, Roberto Giachetta, Péter Kovács - To Balance or to Rebuild?
+An Experimental Study of Randomly Built Binary Search Trees
+http://people.inf.elte.hu/fekete/pub/fgk_poster_icai_2010.pdf
